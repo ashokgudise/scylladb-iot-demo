@@ -16,5 +16,4 @@ public class SensorReading {
     private String name;
     private double value;
     private Date timestamp;
-
 }
